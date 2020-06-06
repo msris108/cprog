@@ -1,2 +1,2 @@
 # cprog
-Basic c-programming (semester course)
+Basic Data Structures and algorithms in C (semester course)
